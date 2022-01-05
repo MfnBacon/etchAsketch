@@ -1,0 +1,24 @@
+#container {
+	position: relative;
+	top: 30px;
+	font-size: 0;
+	margin:auto;
+	height:960px;
+	width:960px;
+	padding: 0;
+	border:1px solid black;
+}
+
+.newGrid{
+	position:absolute;
+	left:20%;
+	top: 20%;
+	height:50px;
+	width:50px;
+	border-radius:50%;
+}
+.grid {
+	margin:0;
+	padding:0;
+	display:inline-block;
+  }
